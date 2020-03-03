@@ -1,6 +1,7 @@
 <?php
 ?>
 <p>
-	Collège maisonneuve: jfchenier@cmaisonneuve.qc.ca.
-	
+	Collège maisonneuve:<br> 
+	Courriel: jfchenier@cmaisonneuve.qc.ca <br> 
+	Téléphone: (514) 254-7131	
 </p>
